@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 246, 209);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: rgb(37, 102, 123);
+  }
+  
+  .delete {
+    margin-right: 5px;
+  }
